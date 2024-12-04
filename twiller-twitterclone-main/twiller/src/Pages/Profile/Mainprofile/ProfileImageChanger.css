@@ -1,0 +1,61 @@
+.profile-image-changer {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .options {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    padding: 10px 15px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+    transition: background-color 0.3s;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .upload-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+  }
+  
+  .change-button {
+    padding: 10px 15px;
+    font-size: 16px;
+    border: 2px dashed #007bff;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #007bff;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .change-button:hover {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .avatar-creator {
+    margin: 20px;
+  }
+  
+  .avatar-preview {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-top: 20px;
+    border: 2px solid #007bff;
+  }
+  
