@@ -12,13 +12,13 @@ import { getFirestore } from "firebase/firestore"
 //   measurementId: ""
 // };
 const firebaseConfig = {
-  apiKey: "AIzaSyBr5eYQOarZ10iF6rHuTq6K6PMtSBNivKE",
-  authDomain: "twillerx-5d990.firebaseapp.com",
-  projectId: "twillerx-5d990",
-  storageBucket: "twillerx-5d990.firebasestorage.app",
-  messagingSenderId: "620187250139",
-  appId: "1:620187250139:web:e668e7d2eedd61701acbfe",
-  measurementId: "G-BYSTNHH8TS"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 // Initialize Firebase const app = initializeApp(firebaseConfig); // Initialize Fireb
